@@ -1,0 +1,47 @@
+# China's Strategic Positioning
+
+China is leveraging the Hormuz crisis to strengthen its geopolitical and economic position, acting as both mediator and self-interested accumulator.
+
+## Diplomatic Role
+
+- Intervened to push Iran toward the two-week ceasefire with Pakistan
+- Urged Tehran to show flexibility and ease tensions
+
+## Resource Hoarding
+
+- Accumulated oil reserves for 3–4 months
+- Blocked all fertiliser exports (~40M tons staying within Chinese borders)
+- Protects domestic food security while tightening supply for the rest of Asia
+
+## Yuan Leverage
+
+- Iran's Hormuz toll system accepts payment in Chinese yuan (primary) and Bitcoin
+- A deliberate attempt to bypass the dollar system and US sanctions
+- China (with bilateral agreements) gets preferential passage through the strait
+
+## Battery and Clean Energy Boom
+
+- Market cap of major Chinese battery producers up $70B since the war began (Financial Times)
+- Investors anticipate the conflict will accelerate clean energy adoption
+- Chinese battery giants outperforming global oil majors since conflict start
+- BYD unveiled chargers providing ~600 km of range in 9 minutes (4x faster than typical US chargers); thousands installed in China and Europe
+
+## Producer Price Signal
+
+- China PPI up 0.5% — first increase since September 2022, ending a deflationary streak
+- Driven by rising energy input costs
+- Q1 consumer prices fell 0.6%; March CPI rose 1% (below expectations of 1.2%)
+
+## Key Takeaways
+
+- China is playing both sides: mediating for peace while hoarding resources
+- The yuan-denominated toll system is a concrete step toward de-dollarisation
+- Fertiliser export ban is a food security play that worsens the crisis for neighbours
+- Chinese clean energy companies are major beneficiaries of the crisis
+
+## Related
+
+- [[urea-and-food-crisis]]
+- [[hormuz-blockade-overview]]
+- [[asian-energy-crisis-overview]]
+- [[conflict-and-ceasefire-status]]

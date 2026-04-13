@@ -1,0 +1,25 @@
+# Other Asset Classes — April 2026
+
+Snapshot of safe-haven and alternative assets as of 2026-04-11.
+
+## Precious Metals
+
+- **Gold**: down 0.6% on the day, but heading for its **3rd consecutive positive week**
+- **Silver**: down fractionally
+
+## Crypto
+
+- **Bitcoin**: $72,108 — flat on the day
+- Bitcoin also accepted as payment for Hormuz strait tolls (alongside Chinese yuan)
+
+## Key Takeaways
+
+- Gold's weekly uptrend despite daily dips suggests sustained safe-haven demand
+- Bitcoin is flat despite its new role in Hormuz toll payments — no obvious premium from geopolitical utility
+- Precious metals are underperforming relative to what the crisis magnitude might suggest
+
+## Related
+
+- [[us-equities-april-2026]]
+- [[us-macro-data-april-2026]]
+- [[hormuz-blockade-overview]]

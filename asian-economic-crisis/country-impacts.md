@@ -1,0 +1,83 @@
+# Country-by-Country Impact
+
+Breakdown of how individual Asian countries are coping with the Hormuz energy crisis as of early April 2026.
+
+## South Korea
+
+- President presented the **National 12 Step Drive** — invoked patriotism of 1997 Asian financial crisis
+- "Voluntary" measures: washing machines/vacuums only on weekends, energy-efficient appliances, public transport
+- Government vehicles limited to 4/5 working days
+- Threat: alternate-day driving could become mandatory with heavy sanctions
+- Central bank kept rates steady at 2.5%
+
+## Japan
+
+- Strategic reserves for ~230 days (built after 1970s shocks)
+- PM Kishida releasing additional reserves (20 days' worth)
+- Depends 90% on Middle East supplies
+- Ferry/bus services reduced; public baths closing; consumer goods production halted (e.g., fried chips — shortage of heavy oil)
+- Authorised return to maximum coal plant capacity
+
+## India
+
+- Imports 88% of crude, half via Hormuz
+- Gujarat ceramic district (400,000 employees) at standstill — no gas for kilns
+- Secured temporary sanctions waiver for Russian crude (avoided blackout in March)
+- Every $10/barrel increase adds unsustainable inflationary pressure on 1.5B people
+- Cut taxes on 2026-03-27 to absorb the price shock
+
+## Philippines
+
+- **National state of emergency** declared
+- Jeepney drivers' earnings down ~70%; protests in Manila
+- Authorised Euro 2 / dirty high-sulphur fuels to prevent transport collapse
+- 4-day workweek for public offices to cut energy use
+- LPG prices up 40% (1,000 → 1,400 pesos); carinderias (~1M jobs) struggling to survive
+- Oil reserves for ~3 weeks
+
+## Indonesia
+
+- Risk of breaching 3% GDP deficit ceiling due to subsidies
+- Pupuk (state fertiliser producer) has domestic gas, but blenders have only 45 days of reserves
+- Oil reserves for ~3 weeks
+
+## Thailand
+
+- Situation "critical"; 55% of nitrogen raw materials from the Middle East
+- Fertiliser reserves until August
+- Thai PBS news anchor appeared without formal jacket — signal of 26°C AC mandate and remote work for public employees
+
+## Vietnam
+
+- Government suspended import duties to prevent shortages
+- Fuel lines growing in Hanoi; opening hours being reduced
+- Growth estimates being cut
+- Announced nuclear plant construction with Russia
+
+## Malaysia (Positive Exception)
+
+- Net energy exporter with diversified export structure
+- No single country >16% of trade
+- Central bank forecasts ~5% growth
+- "Island of relative stability"
+
+## Others
+
+- **Pakistan**: under IMF scrutiny; raised fuel prices 20%; target for currency speculators
+- **Laos**: >40% of service stations closed
+- **Cambodia**: 33% of stations closed by early March; emergency supplies from Malaysia stabilised partially
+- **Myanmar**: military imposed alternate-day driving for private vehicles; black market risk
+
+## Key Takeaways
+
+- Responses range from austerity drives (South Korea) to national emergencies (Philippines)
+- Countries with reserves (Japan, China) buy time; those without (Philippines, Vietnam, Indonesia) face weeks-long buffers
+- Malaysia is the notable exception — net exporter, diversified economy
+- Pattern across the region: subsidies, rationing, environmental regression, and growing social pressure
+
+## Related
+
+- [[asian-energy-crisis-overview]]
+- [[urea-and-food-crisis]]
+- [[china-strategic-positioning]]
+- [[energy-supply-disruption]]
