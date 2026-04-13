@@ -45,3 +45,4 @@ China is leveraging the Hormuz crisis to strengthen its geopolitical and economi
 - [[hormuz-blockade-overview]]
 - [[asian-energy-crisis-overview]]
 - [[conflict-and-ceasefire-status]]
+- [[deepseek-and-export-controls]] — China's AI chip constraints and the export controls debate

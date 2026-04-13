@@ -72,4 +72,5 @@
 ## Related
 
 - [[asian-economic-crisis/_index]] — China's capital controls context
+- [[china-strategic-positioning]] — China's broader financial and strategic manoeuvring
 - [[european-stagflation-risk]] — global financial regulation context

@@ -27,10 +27,10 @@ Raw files are compiled into wiki articles with key takeaways, cross-links betwee
 | [Energy Markets 2026](energy-markets-2026/_index.md) | Oil prices, LNG crisis, global supply disruption |
 | [Asian Economic Crisis](asian-economic-crisis/_index.md) | Energy rationing, food/fertiliser crisis, country-by-country impacts across Asia |
 | [US Markets and Economy](us-markets-and-economy/_index.md) | Equities, macro data, inflation, Fed expectations |
-| [AI Industry](ai-industry/_index.md) | Anthropic Mitos release, Meta/OpenAI infrastructure investments, cybersecurity |
+| [AI Industry](ai-industry/_index.md) | Anthropic Mitos release, Meta/OpenAI infrastructure investments, DeepSeek analysis, cybersecurity |
+| [AI Geopolitics and Risks](ai-geopolitics-and-risks/_index.md) | Transformative potential of powerful AI, civilisational risks, export controls, AI-enabled authoritarianism, economic disruption |
 | [European Economy](european-economy/_index.md) | Stagflation risk, fiscal policy, Italy, Hungary elections (Orbán defeated) |
 | [Global Finance and Crypto](global-finance-and-crypto/_index.md) | Underground banking (Hawala, Fei Qian), cryptocurrency critique, cyber-libertarianism |
-| [AI Geopolitics and Risks](ai-geopolitics-and-risks/_index.md) | Transformative potential of powerful AI, civilisational risks, export controls, AI-enabled authoritarianism |
 
 ---
 

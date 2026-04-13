@@ -45,3 +45,6 @@
 
 - [[us-equities-april-2026]]
 - [[china-strategic-positioning]] (battery/clean energy boom)
+- [[deepseek-and-export-controls]] — DeepSeek's models and the export controls debate
+- [[ai-transformative-potential]] — Amodei's vision of AI's upside
+- [[ai-risks-and-safety]] — Amodei's mapping of AI civilisational risks

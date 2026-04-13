@@ -112,3 +112,4 @@
 - [[deepseek-and-export-controls]] — Detailed case for export controls and analysis of the US-China AI gap
 - [[ai-developments-april-2026]] — Current AI industry developments and market impact
 - [[hungary-elections-2026]] — Example of democratic resilience against authoritarianism
+- [[us-macro-data-april-2026]] — Current US economic context for labour displacement predictions
