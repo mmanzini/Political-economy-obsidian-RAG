@@ -7,11 +7,11 @@ A real-time political economy research wiki compiled from raw sources (articles,
 ## How It Works
 
 ```
-raw/          ← source material: clipped articles, transcripts, reports
-  ↓
-wiki/         ← LLM-compiled knowledge base (this folder)
-  ↓
-output/       ← query results and generated reports
+raw/          <- source material: clipped articles, transcripts, reports
+  |
+wiki/         <- LLM-compiled knowledge base (this folder)
+  |
+output/       <- query results and generated reports
 ```
 
 Raw files are compiled into wiki articles with key takeaways, cross-links between related concepts, and topic-level index files. Each article includes a **Key Takeaways** section and uses `[[wiki links]]` for internal cross-references (rendered as standard links on GitHub).
@@ -27,10 +27,13 @@ Raw files are compiled into wiki articles with key takeaways, cross-links betwee
 | [Energy Markets 2026](energy-markets-2026/_index.md) | Oil prices, LNG crisis, global supply disruption |
 | [Asian Economic Crisis](asian-economic-crisis/_index.md) | Energy rationing, food/fertiliser crisis, country-by-country impacts across Asia |
 | [US Markets and Economy](us-markets-and-economy/_index.md) | Equities, macro data, inflation, Fed expectations |
-| [AI Industry](ai-industry/_index.md) | Anthropic Mitos release, Meta/OpenAI infrastructure investments, DeepSeek analysis, cybersecurity |
+| [AI Industry](ai-industry/_index.md) | Anthropic Mitos release, Economic Index report, Meta/OpenAI infrastructure investments, DeepSeek analysis, cybersecurity |
 | [AI Geopolitics and Risks](ai-geopolitics-and-risks/_index.md) | Transformative potential of powerful AI, civilisational risks, export controls, AI-enabled authoritarianism, economic disruption |
-| [European Economy](european-economy/_index.md) | Stagflation risk, fiscal policy, Italy, Hungary elections (Orbán defeated) |
+| [European Economy](european-economy/_index.md) | Stagflation risk, fiscal policy, Italy, Hungary elections (Orban defeated) |
 | [Global Finance and Crypto](global-finance-and-crypto/_index.md) | Underground banking (Hawala, Fei Qian), cryptocurrency critique, cyber-libertarianism |
+| [Bhutan Refugee Crisis](bhutan-refugee-crisis/_index.md) | Ethnic cleansing of the Lhotshampa, statelessness, US deportation loop, state Bitcoin mining |
+| [China Domestic Economy](china-domestic-economy/_index.md) | Rural pensions crisis, urban-rural inequality, "Common Prosperity" rhetoric vs. reality |
+| [Digital Privacy and Cybersecurity](digital-privacy-and-cybersecurity/_index.md) | Vastaamo data breach, uberisation of healthcare, the politics of personal data |
 
 ---
 
