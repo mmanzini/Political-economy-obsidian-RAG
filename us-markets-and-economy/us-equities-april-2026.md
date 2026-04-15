@@ -36,6 +36,34 @@
 - **White House**: internal memo on 2026-03-24 warning employees against insider trading (including Polymarket, Calci)
 - **Norway (Oslo BX)**: best-performing exchange since war start, +8% (net energy exporter)
 
+## Update — 2026-04-15 (Day 46)
+
+### Recovery & Rotation
+- S&P 500 has erased all war-period losses and turned positive YTD; Nasdaq futures positive into the open
+- From the 30 March low: S&P +7.5%, Dow +6%, Nasdaq +10pp; Russell Value +5pp YTD vs. Growth -5pp YTD — **massive rotation out of growth/tech, into value**
+- VIX at 19; Bitcoin +1.8% — "thirst for stability"
+
+### Sell-Side Calls
+- **BlackRock**: upgraded US equities from neutral to **overweight** on tech earnings resilience (tech EPS growth expected +46% YoY vs. +26% last year); downgraded EM from OW to neutral on energy/dollar vulnerability
+- **Citi**: overweight US, tilt toward quality/defensive; S&P target **$7,700** (+12% upside)
+- **Yardeni**: maintains $7,700 by year-end
+- **Morgan Stanley (Mike Wilson)**: most geopolitical / AI-disruption / private-credit risk already priced in — be ready to add risk
+- **JPMorgan**: 3–6–12 month investors should buy the dip; market has hit a "fragile floor"
+- **Oppenheimer**: $7,750 target (+13.6%)
+- **BNP Paribas Asset Mgmt**: cautious — every day of high oil prices weighs on growth and lifts inflation; durable rally needs durable resolution
+- **Piper Sandler**: market has priced a quick return to normal, but conflict may last much longer
+
+### Q1 Bank Earnings — Actuals
+- **JPMorgan**: net income +19% YoY, EPS $5.6 (beat); equities trading **near record $5.3B (+27%)**; FICC -10% to $4.0B; IB and WM slightly below estimates; stock dropped intraday -4%, closed -2% (still +77% over the year)
+- Jamie Dimon: economy "relatively robust" despite ME, AI disruption, private credit visibility issues
+- Software comeback: Microsoft +2%, SanDisk +10.5%, Cloudflare +9.5%
+- Private credit rallied: KKR +7%, Ares +6%, Apollo +5%, Blue Owl +2%
+
+### M&A Headlines
+- HP, Dell up 5–6% on speculation Nvidia entering the PC market
+- **United Airlines CEO** reportedly proposed a merger with **American Airlines** to government officials — would create largest US carrier (~1,000 aircraft each)
+- Amazon may announce acquisition of **Globalstar** (satellite comms)
+
 ## Q1 Earnings Season (Week Ahead)
 
 - **Tuesday**: JPMorgan, Wells Fargo, BlackRock, Citigroup

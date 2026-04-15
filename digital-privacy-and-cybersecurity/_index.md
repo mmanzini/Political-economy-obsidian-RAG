@@ -5,3 +5,7 @@ Articles on data breaches, the political economy of digital privacy, and the ris
 ## Articles
 
 - [[vastaamo-data-breach]] — Finland's Vastaamo psychotherapy hack (33,000 records), the uberisation of mental health, and the collapse of trust in digital care
+
+## Related (cross-linked)
+
+- [[china-medical-tourism]] — Inverse case: state-led health-data harvesting via medical tourism, framed by Beijing as the foundation for AI personalised medicine

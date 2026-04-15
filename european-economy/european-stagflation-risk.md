@@ -9,6 +9,19 @@
 - On energy windfall tax: must be coordinated across all countries; compensation measures must not weigh on public accounts
 - Stability Pact derogation "only possible in case of severe recession"
 
+## Update — 2026-04-15
+
+- **Ursula von der Leyen**: again rejects suspension of the Stability Pact — "the conditions are not there"
+- **Italy** (Min. Urso): preparing incentives for commercial vehicles in specific categories
+- **Germany** has now followed Italy in cutting fuel excise duties: petrol and diesel reduced by ~17 cents/litre for two months (~€1.6B package)
+- **Q1 European earnings** (Deutsche Bank): EPS growth expected ~+3% YoY; energy is the bright spot (+20% FY); semis, defence, financials well positioned; auto, chemicals, discretionary headwinds from energy pass-through
+- 2026 EU consensus EPS growth +10% — DB and UBS see this as too optimistic, cut to 7–10%
+- **MPS AGM (16 Apr)**: tight vote between incumbent CEO Lovaglio and the CDA list (Palermo); BlackRock (4.985%) likely backing Lovaglio; Vanguard (3%) backing the CDA list
+- **LVMH Q1**: revenue $19B, -6% YoY; Lusso & Leather division -2%, Wines & Spirits -9% (€2B); China +3%, Asia +7% organic; ME impact -1pp on growth; Morgan Stanley downgrade to Equal Weight, target €320
+- **Telecom Italia**: appointed Goldman Sachs and Evercore as advisors for the Poste Italiane OPAS
+- **Pirelli**: Sinochem reserves right to legal action over Italy's Golden Power decree on corporate governance
+- **BPER / Banca Popolare di Sondrio**: merger deed effective from 20 April
+
 ## Excise Tax Debate
 
 - EU warned Italy and other countries: cutting excise duties on fuel is counterproductive

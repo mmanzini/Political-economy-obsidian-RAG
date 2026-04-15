@@ -61,6 +61,13 @@ Breakdown of how individual Asian countries are coping with the Hormuz energy cr
 - Central bank forecasts ~5% growth
 - "Island of relative stability"
 
+## Update — 2026-04-15 Asia Data
+
+- **China March trade**: exports **-2.5% YoY** (vs. consensus +8.6%) — slowest in six months and a sharp reversal from +21.8% in Jan–Feb; **shipments to US -26%+**; imports +27.8% (highest since Nov 2021); trade surplus ~$50B (vs. ~$108B forecast). Q1 GDP due Thursday, expected ~4.5%
+- **India**: CPI +3.4% in March (vs. 3.2% in Feb); RBI on hold but warned of further energy-driven inflation
+- **Singapore**: Q1 GDP -0.3% QoQ; MAS tightened policy via the SGD trading band (allowing appreciation); 2026 inflation forecast revised up to 1.5–2.5%
+- **Asian session**: tech-led rally — Asia Dow +2%, Nikkei +2%, Hang Seng and Shanghai up despite weak China export print; Kospi +3.6%, SK Hynix +7%, Samsung +4%; Japanese 20Y auction strongest demand since 2019
+
 ## Others
 
 - **Pakistan**: under IMF scrutiny; raised fuel prices 20%; target for currency speculators

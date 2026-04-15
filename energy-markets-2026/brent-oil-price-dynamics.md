@@ -1,5 +1,17 @@
 # Brent Oil Price Dynamics
 
+## Update — 2026-04-15 (Day 46)
+
+- **Brent**: -1.5% to **<$98**; previous day high $102
+- **Dated Brent** (physical benchmark): **$126**
+- **WTI**: $96.83 (-2.5%)
+- **TTF (Amsterdam gas)**: -2.6% to ~€45/MWh on hopes of negotiation
+- **Asian jet fuel**: $200/barrel (doubled) — Europe especially exposed (62% of jet fuel and 42% of refined products imported from Middle East in 2025)
+- **NW Europe diesel cargo (Friday close)**: $170/barrel
+- **Urea (fertiliser)**: +70% since war start
+- IEA's Fatih Birol: ready to release more strategic reserves; with World Bank + IMF urging countries **not to rush refilling reserves** and to lift export bans
+- Birol: "no country is immune; the scale is enormous — oil, gas, fertiliser and helium"
+
 ## Current Prices (2026-04-12)
 
 - **Brent**: $96.40 (+0.5% from previous fix); hit $99.50 intraday yesterday

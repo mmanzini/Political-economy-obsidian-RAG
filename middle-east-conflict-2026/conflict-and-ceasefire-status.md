@@ -3,7 +3,25 @@
 ## Timeline Context
 
 - **Day 42 of war**, day 3 of ceasefire (as of 2026-04-12)
+- **Day 46 of war**, day 7 of ceasefire (as of 2026-04-15)
 - Operation *Epic Fury* launched by US in late February — Iran retaliated by militarising Hormuz
+
+## US Naval Blockade Begins (2026-04-14)
+
+- US military presidio of the Strait of Hormuz began at 16:00; Iranian-flagged vessels to be **intercepted, diverted and confiscated**; non-Iranian shipping free to pass
+- Trump (Truth Social): any Iranian Navy ship approaching the blockade zone "will be eliminated immediately, quickly and brutally"
+- Trump from the White House: said "the right people called yesterday morning — they want a deal"; refused offers from third countries to police Hormuz; said China also wants the war ended
+- Iran (IRGC spokesperson): denounces blockade as **"act of piracy"**; threatens that all Gulf-state ports are at risk if Iranian infrastructure is hit
+- Iranian foreign minister held calls with Saudi and Qatari counterparts — Axios reports "progress toward an agreement"
+
+## Diplomatic Track
+
+- **NYT**: Saudis have proposed a **20-year freeze on Iran's nuclear activities**
+- **Bloomberg**: discussions for a second meeting before the **22 April deadline**
+- President Pezeshkian: dialogue is open but within international law; Europe should play an active role
+- France + UK planning a defensive mission in Hormuz; **Turkey opposed**
+- **Israel-Lebanon**: negotiations in Washington today (2026-04-15)
+- VP Vance: "the ball is now in Iran's court"
 
 ## Israel-Lebanon Front
 

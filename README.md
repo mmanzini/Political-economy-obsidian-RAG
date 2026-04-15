@@ -22,7 +22,7 @@ Raw files are compiled into wiki articles with key takeaways, cross-links betwee
 
 | Topic | Description |
 |-------|-------------|
-| [Middle East Conflict 2026](middle-east-conflict-2026/_index.md) | The war, ceasefire negotiations, and diplomatic developments (Day 42+) |
+| [Middle East Conflict 2026](middle-east-conflict-2026/_index.md) | The war, ceasefire negotiations, and diplomatic developments (Day 46+, US naval blockade of Hormuz) |
 | [Hormuz Strait Crisis](hormuz-strait-crisis/_index.md) | Iran's blockade of the strait, toll system, shipping collapse |
 | [Energy Markets 2026](energy-markets-2026/_index.md) | Oil prices, LNG crisis, global supply disruption |
 | [Asian Economic Crisis](asian-economic-crisis/_index.md) | Energy rationing, food/fertiliser crisis, country-by-country impacts across Asia |
@@ -32,7 +32,7 @@ Raw files are compiled into wiki articles with key takeaways, cross-links betwee
 | [European Economy](european-economy/_index.md) | Stagflation risk, fiscal policy, Italy, Hungary elections (Orban defeated) |
 | [Global Finance and Crypto](global-finance-and-crypto/_index.md) | Underground banking (Hawala, Fei Qian), cryptocurrency critique, cyber-libertarianism |
 | [Bhutan Refugee Crisis](bhutan-refugee-crisis/_index.md) | Ethnic cleansing of the Lhotshampa, statelessness, US deportation loop, state Bitcoin mining |
-| [China Domestic Economy](china-domestic-economy/_index.md) | Rural pensions crisis, urban-rural inequality, "Common Prosperity" rhetoric vs. reality |
+| [China Domestic Economy](china-domestic-economy/_index.md) | Rural pensions crisis, urban-rural inequality, "Common Prosperity" rhetoric vs. reality, medical tourism as global hospital |
 | [Digital Privacy and Cybersecurity](digital-privacy-and-cybersecurity/_index.md) | Vastaamo data breach, uberisation of healthcare, the politics of personal data |
 
 ---
