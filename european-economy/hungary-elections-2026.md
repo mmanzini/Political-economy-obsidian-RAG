@@ -32,7 +32,7 @@
 
 ## EU Impact
 
-- Could unlock **~€17B in frozen EU funds** (previously withheld over rule-of-law concerns)
+- Could unlock **~€17B in frozen EU funds** (previously withheld over rule-of-law concerns; total outstanding across all withheld instruments estimated at ~€35B — see [[hungary-post-election-priorities]])
 - Removes a major veto player on EU decisions regarding Ukraine support
 - Potentially shifts EU internal dynamics on cohesion and foreign policy
 

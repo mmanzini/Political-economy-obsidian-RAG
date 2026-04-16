@@ -12,6 +12,7 @@ The Strait of Hormuz — 167 km of water dubbed the "jugular vein of the world" 
 - WSJ: Saudi Arabia has asked Trump to lift the blockade
 - ~70 container ships heading to US East Coast to load American crude
 - **Cumulative oil supply lost since war start: 430 million barrels**
+- **Urea prices**: +70% since war start (late Feb 2026); +83% since 1 Jan 2026 — different baseline than [[urea-and-food-crisis]]
 - Saudi production reportedly down to ~6 mb/d
 - FAO/UN warning of agro-food catastrophe risk; **urea prices +70% since war start**
 

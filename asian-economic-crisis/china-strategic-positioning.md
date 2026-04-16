@@ -45,4 +45,5 @@ China is leveraging the Hormuz crisis to strengthen its geopolitical and economi
 - [[hormuz-blockade-overview]]
 - [[asian-energy-crisis-overview]]
 - [[conflict-and-ceasefire-status]]
+- [[predatory-world-order]] — Xi Jinping's Sun Tzu strategic patience as a counter-doctrine to Trump's Machiavellian predatory order
 - [[deepseek-and-export-controls]] — China's AI chip constraints and the export controls debate

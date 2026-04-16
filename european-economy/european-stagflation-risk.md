@@ -49,7 +49,7 @@
 
 - **Moody's**: deciding on France's sovereign rating
 - **UniCredit/Commerzbank**: acquisition of Commerzbank would trigger obligation to bid for ~30% of Polish PKO Bank Polski
-- **Hungary elections** (12 April): Orbán lost — see [[hungary-elections-2026]] for full results; could unlock ~€17B in EU funds; extreme forint volatility (COVID-era levels)
+- **Hungary elections** (12 April): Orbán lost — see [[hungary-elections-2026]] for results and [[hungary-post-election-priorities]] for Magyar's agenda; could unlock ~€17B in cohesion funds (total outstanding: ~€35B); extreme forint volatility (COVID-era levels)
 
 ## European Markets
 

@@ -48,3 +48,4 @@
 - [[deepseek-and-export-controls]] — DeepSeek's models and the export controls debate
 - [[ai-transformative-potential]] — Amodei's vision of AI's upside
 - [[ai-risks-and-safety]] — Amodei's mapping of AI civilisational risks
+- [[silicon-valley-military-ai-split]] — Anthropic's Pentagon standoff and OpenAI's subsequent deal; the military AI schism deepens

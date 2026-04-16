@@ -5,3 +5,6 @@ Articles on the war, ceasefire negotiations, and diplomatic developments.
 ## Articles
 
 - [[conflict-and-ceasefire-status]] — War status, ceasefire negotiations, diplomatic developments
+- [[trump-ultimatum-and-ceasefire-drama]] — Trump's bluff cycle, Pakistan-brokered ceasefire, Islamabad talks, Iran's counter-demands (Apr 2026)
+- [[iran-nuclear-program]] — The central sticking point: Iran's enrichment, new hardline leadership, Saudi 20-year freeze proposal *(stub)*
+- [[israel-lebanon-front]] — Israeli strikes continuing through the ceasefire; diverging US-Israel objectives; direct talks track *(stub)*

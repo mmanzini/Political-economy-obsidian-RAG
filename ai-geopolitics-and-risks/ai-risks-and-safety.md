@@ -111,5 +111,7 @@
 - [[ai-transformative-potential]] — The positive vision this essay's risks could prevent
 - [[deepseek-and-export-controls]] — Detailed case for export controls and analysis of the US-China AI gap
 - [[ai-developments-april-2026]] — Current AI industry developments and market impact
+- [[silicon-valley-military-ai-split]] — The live test case: Anthropic refuses mass-surveillance and autonomous-weapons contracts; Anduril builds what others won't
+- [[ai-nuclear-wargaming]] — King's College study confirming AI models choose nuclear escalation in 95% of crisis simulations
 - [[hungary-elections-2026]] — Example of democratic resilience against authoritarianism
 - [[us-macro-data-april-2026]] — Current US economic context for labour displacement predictions

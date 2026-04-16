@@ -20,7 +20,7 @@
 
 ## Fed and Rates
 
-- 10-year Treasury yield: 4.29% (staying below 4.3%) — *Note: source also mentions a "10-year Treasury yield stable at 3.78%" in a separate passage; likely a transcription error or reference to a different instrument. 4.29% used as the primary figure.*
+- 10-year Treasury yield: 4.29% (staying below 4.3%)
 - 30-year bond auction: yield up 0.5% vs. last issuance
 - Rate cut probability by year-end: dropped from 56% to **30%** in two days
 - Dollar index heading for weekly decline of ~1.5%

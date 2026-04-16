@@ -8,7 +8,7 @@
 - **TTF (Amsterdam gas)**: -2.6% to ~€45/MWh on hopes of negotiation
 - **Asian jet fuel**: $200/barrel (doubled) — Europe especially exposed (62% of jet fuel and 42% of refined products imported from Middle East in 2025)
 - **NW Europe diesel cargo (Friday close)**: $170/barrel
-- **Urea (fertiliser)**: +70% since war start
+- **Urea (fertiliser)**: +70% since war start (late Feb 2026); +83% since 1 Jan 2026 — see [[urea-and-food-crisis]]
 - IEA's Fatih Birol: ready to release more strategic reserves; with World Bank + IMF urging countries **not to rush refilling reserves** and to lift export bans
 - Birol: "no country is immune; the scale is enormous — oil, gas, fertiliser and helium"
 
@@ -43,3 +43,4 @@
 - [[energy-supply-disruption]]
 - [[hormuz-blockade-overview]]
 - [[asian-energy-crisis-overview]]
+- [[energy-outlook-april-2026]] — continuation: April 16 update with $95 futures vs $130 physical, IEA demand destruction, Russia windfall

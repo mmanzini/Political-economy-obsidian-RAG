@@ -35,7 +35,7 @@
 - **Two-week ceasefire** agreed between Iran and Pakistan
 - Mediated by China (last-minute intervention urging Tehran to show flexibility)
 - Announced by Trump; negotiations began in Pakistan
-- Also reportedly tested by new leadership in Iran ("Brema, Khamenei")
+- Also reportedly tested by Iran's new post-Khamenei leadership
 
 ## Trump and Diplomacy
 
@@ -70,6 +70,7 @@
 
 ## Related
 
+- [[trump-ultimatum-and-ceasefire-drama]] — detailed account of the bluff cycle, ultimatum, and Islamabad talks
 - [[hormuz-blockade-overview]]
 - [[asian-energy-crisis-overview]]
 - [[energy-supply-disruption]]

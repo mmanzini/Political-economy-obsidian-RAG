@@ -7,7 +7,7 @@ The energy crisis is metamorphosing into a food crisis through a critical depend
 - Natural gas is 60–90% of urea production costs
 - The Persian Gulf supplies 35% of global urea exports
 - Urea is the basis of nitrogen fertilisers essential for rice, corn, and wheat in Asia
-- By 2026-03-31, urea prices had risen **83% since start of year**
+- By 2026-03-31, urea prices had risen **83% since 1 January 2026** (vs. +70% measured from the war's start in late February — see [[brent-oil-price-dynamics]])
 
 ## Country Exposure
 

@@ -81,5 +81,6 @@
 ## Related
 
 - [[us-macro-data-april-2026]]
+- [[markets-rally-april-2026]] — continuation: April 16 synthesis with Q1 earnings actuals, IMF forecasts, and Anthropic valuation update
 - [[ai-developments-april-2026]]
 - [[brent-oil-price-dynamics]]

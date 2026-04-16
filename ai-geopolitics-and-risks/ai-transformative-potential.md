@@ -87,3 +87,4 @@
 - [[ai-risks-and-safety]] — Companion essay mapping the risks that could prevent this vision
 - [[deepseek-and-export-controls]] — Why chip export controls are critical to ensuring democracies lead in AI
 - [[ai-developments-april-2026]] — Current state of AI industry
+- [[ai-nuclear-wargaming]] — Empirical test of AI agency in high-stakes scenarios: models choose nuclear escalation 95% of the time

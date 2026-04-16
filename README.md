@@ -22,18 +22,19 @@ Raw files are compiled into wiki articles with key takeaways, cross-links betwee
 
 | Topic | Description |
 |-------|-------------|
-| [Middle East Conflict 2026](middle-east-conflict-2026/_index.md) | The war, ceasefire negotiations, and diplomatic developments (Day 46+, US naval blockade of Hormuz) |
+| [Middle East Conflict 2026](middle-east-conflict-2026/_index.md) | Ongoing war; Trump ultimatum/ceasefire drama; Islamabad talks; Iran nuclear standoff; Israel-Lebanon front |
 | [Hormuz Strait Crisis](hormuz-strait-crisis/_index.md) | Iran's blockade of the strait, toll system, shipping collapse |
-| [Energy Markets 2026](energy-markets-2026/_index.md) | Oil prices, LNG crisis, global supply disruption |
+| [Energy Markets 2026](energy-markets-2026/_index.md) | Oil prices, LNG crisis, global supply disruption; $95 futures vs $130 physical |
 | [Asian Economic Crisis](asian-economic-crisis/_index.md) | Energy rationing, food/fertiliser crisis, country-by-country impacts across Asia |
-| [US Markets and Economy](us-markets-and-economy/_index.md) | Equities, macro data, inflation, Fed expectations |
-| [AI Industry](ai-industry/_index.md) | Anthropic Mitos release, Economic Index report, Meta/OpenAI infrastructure investments, DeepSeek analysis, cybersecurity |
-| [AI Geopolitics and Risks](ai-geopolitics-and-risks/_index.md) | Transformative potential of powerful AI, civilisational risks, export controls, AI-enabled authoritarianism, economic disruption |
-| [European Economy](european-economy/_index.md) | Stagflation risk, fiscal policy, Italy, Hungary elections (Orban defeated) |
+| [US Markets and Economy](us-markets-and-economy/_index.md) | Equities, macro data, inflation, Fed expectations; Q1 earnings; tech rally; natality crisis |
+| [AI Industry](ai-industry/_index.md) | Anthropic Mitos, Economic Index, Meta/OpenAI investments, DeepSeek; Silicon Valley split over military AI |
+| [AI Geopolitics and Risks](ai-geopolitics-and-risks/_index.md) | Transformative potential, civilisational risks, export controls, AI-enabled authoritarianism; nuclear wargaming study |
+| [European Economy](european-economy/_index.md) | Stagflation risk, Italy; post-Orbán Hungary; Bulgaria pro-Russia risk; EU sidelined in Middle East |
 | [Global Finance and Crypto](global-finance-and-crypto/_index.md) | Underground banking (Hawala, Fei Qian), cryptocurrency critique, cyber-libertarianism |
 | [Bhutan Refugee Crisis](bhutan-refugee-crisis/_index.md) | Ethnic cleansing of the Lhotshampa, statelessness, US deportation loop, state Bitcoin mining |
 | [China Domestic Economy](china-domestic-economy/_index.md) | Rural pensions crisis, urban-rural inequality, "Common Prosperity" rhetoric vs. reality, medical tourism as global hospital |
 | [Digital Privacy and Cybersecurity](digital-privacy-and-cybersecurity/_index.md) | Vastaamo data breach, uberisation of healthcare, the politics of personal data |
+| [Trump Doctrine and Geopolitics](trump-doctrine-and-geopolitics/_index.md) | Predatory world order, Venezuela blitz, Machiavelli vs Sun Tzu, Xi Jinping's strategic patience |
 
 ---
 
