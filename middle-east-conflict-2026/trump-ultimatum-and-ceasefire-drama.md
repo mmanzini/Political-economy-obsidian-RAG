@@ -54,3 +54,4 @@
 - [[conflict-and-ceasefire-status]]
 - [[hormuz-blockade-overview]]
 - [[predatory-world-order]]
+- [[prediction-markets-and-hyperreality]] — fresh accounts placed massive winning bets on the ceasefire minutes before Trump's Truth Social announcement (10 Apr 2026)

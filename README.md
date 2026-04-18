@@ -30,7 +30,7 @@ Raw files are compiled into wiki articles with key takeaways, cross-links betwee
 | [AI Industry](ai-industry/_index.md) | Anthropic Mitos, Economic Index, Meta/OpenAI investments, DeepSeek; Silicon Valley split over military AI |
 | [AI Geopolitics and Risks](ai-geopolitics-and-risks/_index.md) | Transformative potential, civilisational risks, export controls, AI-enabled authoritarianism; nuclear wargaming study |
 | [European Economy](european-economy/_index.md) | Stagflation risk, Italy; post-Orbán Hungary; Bulgaria pro-Russia risk; EU sidelined in Middle East |
-| [Global Finance and Crypto](global-finance-and-crypto/_index.md) | Underground banking (Hawala, Fei Qian), cryptocurrency critique, cyber-libertarianism |
+| [Global Finance and Crypto](global-finance-and-crypto/_index.md) | Underground banking (Hawala, Fei Qian), cryptocurrency critique, cyber-libertarianism; Polymarket hyperreality and insider trading |
 | [Bhutan Refugee Crisis](bhutan-refugee-crisis/_index.md) | Ethnic cleansing of the Lhotshampa, statelessness, US deportation loop, state Bitcoin mining |
 | [China Domestic Economy](china-domestic-economy/_index.md) | Rural pensions crisis, urban-rural inequality, "Common Prosperity" rhetoric vs. reality, medical tourism as global hospital |
 | [Digital Privacy and Cybersecurity](digital-privacy-and-cybersecurity/_index.md) | Vastaamo data breach, uberisation of healthcare, the politics of personal data |

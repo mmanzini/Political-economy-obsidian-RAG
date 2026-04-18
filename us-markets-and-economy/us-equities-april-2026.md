@@ -33,7 +33,7 @@
 
 - **Bill Ackman** (Pershing Square): launching a fund betting against market complacency; buying CDS/credit default swaps (same playbook as COVID)
 - **Morgan Stanley (Mike Wilson)**: post-war playbook favours discretionary, industrials, financials, megacaps at attractive valuations
-- **White House**: internal memo on 2026-03-24 warning employees against insider trading (including Polymarket, Calci)
+- **White House**: internal memo on 2026-03-24 warning employees against insider trading (including Polymarket, Calci) — see [[prediction-markets-and-hyperreality]] for the systemic insider-trading case
 - **Norway (Oslo BX)**: best-performing exchange since war start, +8% (net energy exporter)
 
 ## Update — 2026-04-15 (Day 46)

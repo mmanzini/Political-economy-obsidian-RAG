@@ -12,7 +12,7 @@ The entry point to the wiki. Each topic has its own folder with an `_index.md` l
 - **[[ai-industry/_index|AI Industry]]** — Anthropic Mitos, Economic Index, Meta/OpenAI investments, DeepSeek; Silicon Valley split over military AI
 - **[[ai-geopolitics-and-risks/_index|AI Geopolitics and Risks]]** — Transformative potential, civilisational risks, export controls, AI-enabled authoritarianism; nuclear wargaming study
 - **[[european-economy/_index|European Economy]]** — Stagflation risk, Italy; post-Orbán Hungary; Bulgaria pro-Russia risk; EU sidelined in Middle East
-- **[[global-finance-and-crypto/_index|Global Finance and Crypto]]** — Underground banking (Hawala, Fei Qian), cryptocurrency critique, cyber-libertarianism
+- **[[global-finance-and-crypto/_index|Global Finance and Crypto]]** — Underground banking (Hawala, Fei Qian), cryptocurrency critique, cyber-libertarianism; Polymarket hyperreality and insider trading
 - **[[bhutan-refugee-crisis/_index|Bhutan Refugee Crisis]]** — Ethnic cleansing of the Lhotshampa, statelessness, US deportation loop, state Bitcoin mining
 - **[[china-domestic-economy/_index|China Domestic Economy]]** — Rural pensions crisis, urban-rural inequality, "Common Prosperity" rhetoric vs. reality, medical tourism as global hospital
 - **[[digital-privacy-and-cybersecurity/_index|Digital Privacy and Cybersecurity]]** — Vastaamo data breach, uberisation of healthcare, the politics of personal data

@@ -75,3 +75,4 @@
 - [[asian-energy-crisis-overview]]
 - [[energy-supply-disruption]]
 - [[european-stagflation-risk]]
+- [[prediction-markets-and-hyperreality]] — insider trading on the 28 Feb 2026 US-Israel strike (Epic Fury) and the 10 Apr ceasefire announcement via Polymarket

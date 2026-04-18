@@ -32,6 +32,7 @@ The energy crisis is metamorphosing into a food crisis through a critical depend
 
 ## Related
 
+- [[hormuz-blockade-overview]] — root cause of the gas → urea → food cascade
 - [[lng-crisis-and-gas-markets]]
 - [[china-strategic-positioning]]
 - [[asian-energy-crisis-overview]]
