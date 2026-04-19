@@ -84,3 +84,4 @@
 - [[predatory-world-order]] — Trump's Machiavellian doctrine; the Maduro blitz used as an insider-trading payout case
 - [[trump-ultimatum-and-ceasefire-drama]] — the Iran ceasefire whose announcement triggered the 10 Apr insider-trading cluster
 - [[iran-nuclear-program]] — the classified US-Israel strike of 28 Feb 2026 leaked to insiders 70 minutes early
+- [[maga-new-religious-movement]] — parallel structural move: hollow the form, substitute the content (Christianity's substance → nationalism; fact's substance → the contract)

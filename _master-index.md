@@ -17,3 +17,4 @@ The entry point to the wiki. Each topic has its own folder with an `_index.md` l
 - **[[china-domestic-economy/_index|China Domestic Economy]]** — Rural pensions crisis, urban-rural inequality, "Common Prosperity" rhetoric vs. reality, medical tourism as global hospital
 - **[[digital-privacy-and-cybersecurity/_index|Digital Privacy and Cybersecurity]]** — Vastaamo data breach, uberisation of healthcare, the politics of personal data
 - **[[trump-doctrine-and-geopolitics/_index|Trump Doctrine and Geopolitics]]** — Predatory world order, Venezuela blitz, Machiavelli vs Sun Tzu, Xi Jinping's strategic patience
+- **[[us-religion-and-politics/_index|US Religion and Politics]]** — MAGA as new religious movement, Commission on Religious Freedom, Charlie Kirk funeral (grace vs sword), Castellio vs Calvin, Italian echoes

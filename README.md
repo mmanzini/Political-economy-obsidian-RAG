@@ -35,6 +35,7 @@ Raw files are compiled into wiki articles with key takeaways, cross-links betwee
 | [China Domestic Economy](china-domestic-economy/_index.md) | Rural pensions crisis, urban-rural inequality, "Common Prosperity" rhetoric vs. reality, medical tourism as global hospital |
 | [Digital Privacy and Cybersecurity](digital-privacy-and-cybersecurity/_index.md) | Vastaamo data breach, uberisation of healthcare, the politics of personal data |
 | [Trump Doctrine and Geopolitics](trump-doctrine-and-geopolitics/_index.md) | Predatory world order, Venezuela blitz, Machiavelli vs Sun Tzu, Xi Jinping's strategic patience |
+| [US Religion and Politics](us-religion-and-politics/_index.md) | MAGA as new religious movement, Commission on Religious Freedom, Charlie Kirk funeral (grace vs sword), Castellio vs Calvin, Italian echoes |
 
 ---
 

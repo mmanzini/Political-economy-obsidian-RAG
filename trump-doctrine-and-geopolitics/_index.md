@@ -9,3 +9,4 @@ Articles on the philosophical and strategic underpinnings of Trump's foreign pol
 ## Related (cross-linked)
 
 - [[prediction-markets-and-hyperreality]] — Trump-admin capture of Polymarket regulation; Trump Jr.'s investment via 1789 Capital; Truth Social's own event market; executive power fused with insider-trading infrastructure
+- [[maga-new-religious-movement]] — the domestic religious dimension of the same doctrine: grace-vs-sword theology, Kirk funeral, Commission on Religious Freedom

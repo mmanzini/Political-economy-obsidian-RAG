@@ -55,3 +55,4 @@
 - [[trump-ultimatum-and-ceasefire-drama]] — predatory doctrine applied to the Iran conflict: the bluff cycle, ultimatum, and Islamabad talks
 - [[eu-role-in-middle-east]] — the EU still operating on a rules-based order that no longer governs outcomes
 - [[china-strategic-positioning]] — China's Sun Tzu patience in the energy crisis: the economic dimension of strategic non-action
+- [[maga-new-religious-movement]] — the domestic-religious side of the same doctrine: grace-vs-sword theology, Kirk funeral, Commission on Religious Freedom
