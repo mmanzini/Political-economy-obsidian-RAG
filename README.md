@@ -7,14 +7,12 @@ A real-time political economy research wiki compiled from raw sources (articles,
 ## How It Works
 
 ```
-raw/          <- source material: clipped articles, transcripts, reports
+sources/      <- source material: clipped articles, transcripts, reports
   |
-wiki/         <- LLM-compiled knowledge base (this folder)
-  |
-output/       <- query results and generated reports
+corpus/       <- LLM-compiled knowledge base (this folder)
 ```
 
-Raw files are compiled into wiki articles with key takeaways, cross-links between related concepts, and topic-level index files. Each article includes a **Key Takeaways** section and uses `[[wiki links]]` for internal cross-references (rendered as standard links on GitHub).
+Source files are compiled into corpus articles with key takeaways, cross-links between related concepts, and topic-level index files. Each article includes a **Key Takeaways** section and uses `[[wiki links]]` for internal cross-references (rendered as standard links on GitHub).
 
 ---
 
