@@ -12,3 +12,4 @@ Articles on the war, ceasefire negotiations, and diplomatic developments.
 ## Related (cross-linked)
 
 - [[prediction-markets-and-hyperreality]] — Insider trading on the 28 Feb 2026 US-Israel strike and the 10 Apr 2026 ceasefire announcement via Polymarket; classified military operations leaked 70 min / minutes ahead
+- [[pakistan-2026-mediator-role]] — Pakistan brokered the two-week ceasefire and now hosts Islamabad talks; Munir-Trump axis; $500M minerals deal; World Liberty Financial stablecoin integration

@@ -1,0 +1,40 @@
+# EU Demographics: Projections to 2100
+
+## Source
+Eurostat demographic projections published 2026-04-16 (via *Ventisette* / Il Post, 2026-04-23).
+
+## Headline Figures
+- EU population projected to **shrink 11.7%** by 2100, driven primarily by low birth rates
+- Share aged **0–19**: 20% → 17%
+- Share aged **20–64** (working-age): 58% → 50%
+- Share aged **80+**: **6% → 16%** — the most dramatic structural shift
+
+## Country-Level Variation
+- **Growing populations** (immigration-driven): Luxembourg, Iceland, Malta
+- **Biggest declines**:
+  - Latvia: −33.9%
+  - Lithuania: −33.4%
+  - Poland: −31.6%
+  - Italy: −24%
+
+## Structural Implications
+- Shrinking working-age population increases pressure on pension systems, healthcare, and public finances
+- Rising dependency ratios will force choices between higher taxes, migration, or reduced entitlements
+- Southern and Eastern Europe most exposed to population loss; their political economies already under fiscal stress
+- EU-level demographic divergence risks compounding internal economic inequality — demographic deserts in the East/South vs. migration-attracting hubs in the North/West
+
+## Policy Context
+- The demographic challenge interacts with the ongoing energy crisis: ageing countries have less fiscal headroom to absorb energy shocks or fund defense transitions
+- Migration is the main lever for population stabilisation — politically contested in most member states
+- Hungary under Orbán explicitly rejected migration in favour of natalist policy (cash incentives for large families); outcome data will test that model over the next decade
+
+## Key Takeaways
+- The EU is projected to lose ~1 in 9 people by 2100 under current trends
+- The working-age share will fall from 58% to 50%, compressing the tax base for the next 75 years
+- Italy and the Baltic/Polish states face the steepest absolute declines — each by roughly a quarter to a third of current populations
+- The 80+ cohort tripling to 16% of total population will redefine European healthcare and pension systems
+
+## Related
+- [[european-stagflation-risk]]
+- [[hungary-post-election-priorities]] — natalist policy legacy under Orbán; Magyar government faces demographic headwinds
+- [[eu-role-in-middle-east]] — fiscal exposure compounds demographic pressure

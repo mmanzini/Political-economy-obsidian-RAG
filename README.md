@@ -27,13 +27,14 @@ Source files are compiled into corpus articles with key takeaways, cross-links b
 | [US Markets and Economy](us-markets-and-economy/_index.md) | Equities, macro data, inflation, Fed expectations; Q1 earnings; tech rally; natality crisis |
 | [AI Industry](ai-industry/_index.md) | Anthropic Mitos, Economic Index, Meta/OpenAI investments, DeepSeek; Silicon Valley split over military AI |
 | [AI Geopolitics and Risks](ai-geopolitics-and-risks/_index.md) | Transformative potential, civilisational risks, export controls, AI-enabled authoritarianism; nuclear wargaming study |
-| [European Economy](european-economy/_index.md) | Stagflation risk, Italy; post-Orbán Hungary; Bulgaria pro-Russia risk; EU sidelined in Middle East |
+| [European Economy](european-economy/_index.md) | Stagflation risk, Italy; Magyar cabinet + €90B Ukraine loan; Bulgaria Radev elected; EU military Hormuz mission; demographics 2100; Sánchez progressive summit; Nazi database |
 | [Global Finance and Crypto](global-finance-and-crypto/_index.md) | Underground banking (Hawala, Fei Qian), cryptocurrency critique, cyber-libertarianism; Polymarket hyperreality and insider trading |
 | [Bhutan Refugee Crisis](bhutan-refugee-crisis/_index.md) | Ethnic cleansing of the Lhotshampa, statelessness, US deportation loop, state Bitcoin mining |
 | [China Domestic Economy](china-domestic-economy/_index.md) | Rural pensions crisis, urban-rural inequality, "Common Prosperity" rhetoric vs. reality, medical tourism as global hospital |
 | [Digital Privacy and Cybersecurity](digital-privacy-and-cybersecurity/_index.md) | Vastaamo data breach, uberisation of healthcare, the politics of personal data |
 | [Trump Doctrine and Geopolitics](trump-doctrine-and-geopolitics/_index.md) | Predatory world order, Venezuela blitz, Machiavelli vs Sun Tzu, Xi Jinping's strategic patience |
 | [US Religion and Politics](us-religion-and-politics/_index.md) | MAGA as new religious movement, Commission on Religious Freedom, Charlie Kirk funeral (grace vs sword), Castellio vs Calvin, Italian echoes |
+| [Pakistan Security State](pakistan-security-state/_index.md) | Kamran's framework; military-rule history (Ayub → Zia → Musharraf → Imran Khan); Munir-Trump axis and Pakistan's 2026 mediator role |
 
 ---
 

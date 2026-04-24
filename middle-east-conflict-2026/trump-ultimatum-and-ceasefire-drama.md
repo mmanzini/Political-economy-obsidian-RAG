@@ -55,3 +55,4 @@
 - [[hormuz-blockade-overview]]
 - [[predatory-world-order]]
 - [[prediction-markets-and-hyperreality]] — fresh accounts placed massive winning bets on the ceasefire minutes before Trump's Truth Social announcement (10 Apr 2026)
+- [[pakistan-2026-mediator-role]] — why Islamabad is the venue: Munir-Trump axis, $500M critical-minerals deal, World Liberty Financial stablecoin integrated into Pakistan's payments rail

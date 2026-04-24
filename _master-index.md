@@ -11,10 +11,11 @@ The entry point to the wiki. Each topic has its own folder with an `_index.md` l
 - **[[us-markets-and-economy/_index|US Markets and Economy]]** — Equities, macro data, inflation, Fed expectations; Q1 earnings; tech rally; natality crisis
 - **[[ai-industry/_index|AI Industry]]** — Anthropic Mitos, Economic Index, Meta/OpenAI investments, DeepSeek; Silicon Valley split over military AI
 - **[[ai-geopolitics-and-risks/_index|AI Geopolitics and Risks]]** — Transformative potential, civilisational risks, export controls, AI-enabled authoritarianism; nuclear wargaming study
-- **[[european-economy/_index|European Economy]]** — Stagflation risk, Italy; post-Orbán Hungary; Bulgaria pro-Russia risk; EU sidelined in Middle East
+- **[[european-economy/_index|European Economy]]** — Stagflation risk, Italy; Magyar cabinet + €90B Ukraine loan; Bulgaria Radev elected; EU military Hormuz mission; demographics 2100; Sánchez progressive summit; Nazi database
 - **[[global-finance-and-crypto/_index|Global Finance and Crypto]]** — Underground banking (Hawala, Fei Qian), cryptocurrency critique, cyber-libertarianism; Polymarket hyperreality and insider trading
 - **[[bhutan-refugee-crisis/_index|Bhutan Refugee Crisis]]** — Ethnic cleansing of the Lhotshampa, statelessness, US deportation loop, state Bitcoin mining
 - **[[china-domestic-economy/_index|China Domestic Economy]]** — Rural pensions crisis, urban-rural inequality, "Common Prosperity" rhetoric vs. reality, medical tourism as global hospital
 - **[[digital-privacy-and-cybersecurity/_index|Digital Privacy and Cybersecurity]]** — Vastaamo data breach, uberisation of healthcare, the politics of personal data
 - **[[trump-doctrine-and-geopolitics/_index|Trump Doctrine and Geopolitics]]** — Predatory world order, Venezuela blitz, Machiavelli vs Sun Tzu, Xi Jinping's strategic patience
 - **[[us-religion-and-politics/_index|US Religion and Politics]]** — MAGA as new religious movement, Commission on Religious Freedom, Charlie Kirk funeral (grace vs sword), Castellio vs Calvin, Italian echoes
+- **[[pakistan-security-state/_index|Pakistan Security State]]** — Kamran's framework; military-rule history (Ayub → Zia → Musharraf → Imran Khan); Munir-Trump axis and Pakistan's 2026 mediator role

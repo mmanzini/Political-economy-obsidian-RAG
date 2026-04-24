@@ -2,7 +2,8 @@
 
 ## Government Formation Timeline
 - Orbán remains in office until the new parliament convenes and votes confidence in the new government
-- Expected transition: around **mid-May 2026**
+- New parliament expected to convene **9 May 2026**, after which a confidence vote on the Magyar government is expected
+- Tisza (Magyar's party) controls **141 of 199 seats** — a commanding supermajority
 - Orbán called Magyar to congratulate him; transition appears orderly
 
 ## Magyar's Stated Priorities
@@ -24,8 +25,19 @@
 ### Druzhba Pipeline and Ukraine Rapprochement
 - The Druzhba oil pipeline (Russian crude through Ukraine to Hungary) was damaged by Russian bombardment
 - Orbán accused Zelensky of deliberately not repairing it, using this as pretext to block a **€90B EU loan to Ukraine**
-- Zelensky (post-Magyar victory): committed to repairing the pipeline by **end of April 2026**
-- Magyar asked Orbán to approve the Ukraine loan as soon as the pipeline is repaired
+- Zelensky (post-Magyar victory): committed to repairing the pipeline — and **did repair it** by late April 2026
+- **2026-04-23 update**: COREPER (EU Council preparatory committee) **unblocked the €90B loan** to Ukraine after Hungary withdrew its veto
+  - EU member states had agreed the loan in December 2025; Hungary's veto delayed it for months
+  - With the pipeline repaired and Orbán out, Hungary dropped its opposition
+  - Final approval pending: member states had until 2026-04-24 to raise objections; no significant opposition expected
+  - First concrete geopolitical consequence of Orbán's electoral defeat
+
+### Magyar Cabinet (Announced 2026-04-20)
+- **Foreign Minister**: Anita Orbán (no relation to Viktor) — former member of the pro-NATO wing of Fidesz
+- **Economy and Energy Minister**: István Kapitány — former senior roles at Shell
+- Magyar **restored** the Ministries of Education and Health, which Orbán had merged into the Interior Ministry to centralise control
+- Magyar is demanding resignations from Fidesz-appointed officials, including President Sulyok Tamás; no comment from Sulyok so far
+- Magyar signalled he will **suspend public broadcaster news services** — seen as too aligned with Orbán/Fidesz
 
 ## Geopolitical Implications
 - Orbán was the EU's primary internal enabler of Russian influence; his removal restructures EU dynamics on Ukraine, Russia, and cohesion
@@ -34,9 +46,11 @@
 
 ## Key Takeaways
 - Magyar holds supermajority power but faces Orbán-packed courts as the main institutional obstacle to reform
-- €35B in EU funds is the economic prize and top priority
-- The Druzhba pipeline repair is an early test of new Hungary-Ukraine relations and of Magyar's ability to deliver tangible change quickly
+- €35B in EU frozen funds is the economic prize and top priority
+- The Druzhba pipeline has been repaired; the €90B Ukraine loan was unblocked by COREPER on 2026-04-23 — the first concrete EU-level payoff of Orbán's defeat
+- Cabinet choices signal a pro-EU, pro-NATO direction; re-separating Education and Health from Interior is a symbolic reversal of authoritarian consolidation
 - The retroactive two-term limit is constitutionally feasible but will be legally contested
+- Foreign ministers of several EU states told *Politico* that Orbán's exit may now unlock other blocked dossiers: new country accessions, Russia sanctions, and sanctions on Israeli settlers in the West Bank
 
 ## Related
 - [[hungary-elections-2026]] — election results and background

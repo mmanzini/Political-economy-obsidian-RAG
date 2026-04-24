@@ -33,13 +33,28 @@ The Strait of Hormuz — 167 km of water dubbed the "jugular vein of the world" 
 - Friendly nations (e.g. China, with bilateral agreements) get preferential passage
 - Lloyd's of London coined the term "Tehran Tollgate"
 
+## EU Military Mission Planning (Update 2026-04-23, Day 55)
+
+- European governments are actively discussing a **joint EU military mission** to facilitate shipping through the Strait of Hormuz
+- **Two consensus points** among member states:
+  1. Mission will be **defensive only**
+  2. Mission will begin **only after the war ends** — no near-term deployment
+- **Dozens of governments** interested in participation, including UK, France, Germany, Italy
+- Open question: whether the mission should **include the US** or remain a purely European operation
+- Eurostat data (March 2026, first full month of war):
+  - EU average diesel prices: **+19.1%**
+  - EU average petrol prices: **+10.6%**
+- European Commission presented proposals to contain the energy crisis but acknowledged limited powers given rapidly evolving situation
+- EU is separately running **Article 42.7 wargames** (mutual defence clause) — Kaja Kallas confirmed these are political/scenario exercises, not military planning
+
 ## Key Takeaways
 
 - Hormuz transit is down ~90%, creating the largest energy supply disruption in modern history
 - Iran controls passage through a discriminatory toll-and-authorisation system priced in yuan
 - Physical mines confirmed in the strait; "safe routes" published but trust is low
 - The blockade affects 80% of oil and 90% of LNG destined for Asia specifically
-- International response emerging: France and Germany may join strait operations; NATO exploring a role
+- EU military mission is discussed but will only launch post-war; the debate over US inclusion reflects deeper transatlantic fracture
+- Fuel price data confirms the economic hit landing on European consumers: diesel +19%, petrol +11% in March alone
 
 ## Related
 
