@@ -28,4 +28,7 @@
 - Bhutan is a stealth Bitcoin superpower, mining BTC at state level with cheap hydroelectric power
 - The tourist-facing crypto payment system has failed due to infrastructure and literacy barriers
 - State Bitcoin wealth funds government spending while the regime denies basic rights to ethnic minorities
-- See also: [[bhutan-ethnic-cleansing-and-statelessness]], [[underground-banking-and-crypto-critique]]
+## Related
+
+- [[bhutan-ethnic-cleansing-and-statelessness]]
+- [[underground-banking-and-crypto-critique]]

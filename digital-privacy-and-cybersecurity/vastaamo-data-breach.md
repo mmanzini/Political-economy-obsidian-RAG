@@ -46,4 +46,8 @@
 - The case exemplifies the dangers of applying platform-economy logic ("uberisation") to sensitive healthcare
 - Trust destruction extends far beyond victims — it deters an entire population from seeking mental health support
 - Swatting and data extortion represent the militarisation of personal information for entertainment and profit
-- See also: [[ai-risks-and-safety]], [[ai-developments-april-2026]]
+
+## Related
+
+- [[ai-risks-and-safety]]
+- [[ai-developments-april-2026]]

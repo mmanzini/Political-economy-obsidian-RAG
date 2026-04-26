@@ -41,4 +41,7 @@
 - The urban-rural pension gap (21:1) reflects decades of extraction from the countryside that funded industrialisation
 - The state's reluctance to transfer cash directly to citizens contradicts its own "consumption-led growth" strategy
 - "Common Prosperity" remains rhetorical as long as the state prioritises production subsidies over human dignity
-- See also: [[china-strategic-positioning]], [[asian-energy-crisis-overview]]
+## Related
+
+- [[china-strategic-positioning]]
+- [[asian-energy-crisis-overview]]

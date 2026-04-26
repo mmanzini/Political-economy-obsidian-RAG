@@ -3,7 +3,7 @@
 ## Government Formation Timeline
 - Orbán remains in office until the new parliament convenes and votes confidence in the new government
 - New parliament expected to convene **9 May 2026**, after which a confidence vote on the Magyar government is expected
-- Tisza (Magyar's party) controls **141 of 199 seats** — a commanding supermajority
+- Tisza (Magyar's party) controls **141 of 199 seats** — a commanding supermajority; this is the final certified figure after diaspora votes were tallied, confirmed by Bloomberg (2026-04-18)
 - Orbán called Magyar to congratulate him; transition appears orderly
 
 ## Magyar's Stated Priorities
@@ -56,3 +56,8 @@
 - [[hungary-elections-2026]] — election results and background
 - [[european-stagflation-risk]]
 - [[conflict-and-ceasefire-status]]
+
+## Sources
+
+- Bloomberg (2026-04-18): "Hungary's Tisza Party Widens Election Majority in Fresh Tally" — https://www.bloomberg.com/news/articles/2026-04-18/hungary-s-tisza-party-widens-election-majority-in-fresh-tally
+- Wikipedia: https://en.wikipedia.org/wiki/2026_Hungarian_parliamentary_election

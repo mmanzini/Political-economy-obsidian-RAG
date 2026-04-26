@@ -36,4 +36,7 @@
 - Bhutan's GNH narrative masks a systematic programme of ethnic cleansing that erased ~120,000 people from the state
 - The 2025–26 US deportation pipeline creates a grotesque loop: people born stateless are deported to a country that re-expels them
 - The kingdom's progressive international image serves as diplomatic cover for ongoing authoritarianism
-- See also: [[bhutan-state-bitcoin-mining]], [[underground-banking-and-crypto-critique]]
+## Related
+
+- [[bhutan-state-bitcoin-mining]]
+- [[underground-banking-and-crypto-critique]]

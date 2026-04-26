@@ -12,7 +12,7 @@
 ## Why It Matters for the Ceasefire
 - Iran's Speaker of Parliament: "Lebanon and the entire axis of resistance are an inseparable part of the ceasefire" — meaning Israeli strikes in Lebanon can legitimately void the Iran ceasefire from Tehran's perspective
 - The Lebanon front gives Iran a pretext to resume hostilities if it chooses
-- Netanyahu's incentive structure diverges from the US: Israel wants regime change in Iran; the US under Vance/Biden wants a face-saving de-escalation
+- Netanyahu's incentive structure diverges from the US: Israel wants regime change in Iran; Vance wants a face-saving de-escalation
 
 ## Historical Pattern
 - Netanyahu proposed killing Khamenei and destroying Iran's military to every US president since Bush — the same logic that drove *Epic Fury* is driving the Lebanon campaign

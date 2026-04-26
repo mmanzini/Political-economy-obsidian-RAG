@@ -71,8 +71,10 @@
 ## Related
 
 - [[trump-ultimatum-and-ceasefire-drama]] — detailed account of the bluff cycle, ultimatum, and Islamabad talks
+- [[predatory-world-order]] — doctrinal framing for Trump's escalation logic; Machiavellian predatory order vs Xi's Sun Tzu patience
 - [[hormuz-blockade-overview]]
 - [[asian-energy-crisis-overview]]
 - [[energy-supply-disruption]]
 - [[european-stagflation-risk]]
 - [[prediction-markets-and-hyperreality]] — insider trading on the 28 Feb 2026 US-Israel strike (Epic Fury) and the 10 Apr ceasefire announcement via Polymarket
+- [[pakistan-2026-mediator-role|Pakistan 2026 Mediator Role]]

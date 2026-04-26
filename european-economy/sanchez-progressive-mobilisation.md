@@ -38,3 +38,4 @@
 - [[predatory-world-order]] — the anti-Trump framing responds directly to Trump's unilateralist doctrine
 - [[eu-role-in-middle-east]] — EU searching for political relevance in a US-dominated crisis
 - [[european-stagflation-risk]] — domestic economic pressure Sánchez is navigating
+- [[eu-demographics-2100|EU Demographics 2100]]

@@ -47,3 +47,5 @@ China is leveraging the Hormuz crisis to strengthen its geopolitical and economi
 - [[conflict-and-ceasefire-status]]
 - [[predatory-world-order]] — Xi Jinping's Sun Tzu strategic patience as a counter-doctrine to Trump's Machiavellian predatory order
 - [[deepseek-and-export-controls]] — China's AI chip constraints and the export controls debate
+- [[brent-oil-price-dynamics]] — Brent price mechanics and futures/physical spread underpinning China's reserve accumulation strategy
+- [[energy-outlook-april-2026]] — macro energy supply picture that shapes China's hoarding rationale

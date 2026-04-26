@@ -2,7 +2,7 @@
 
 ## Election Results (12 April 2026)
 
-- **Tisza** (Péter Magyar): **138 seats** out of 199 — a supermajority (>133 needed for two-thirds)
+- **Tisza** (Péter Magyar): **141 seats** out of 199 — a supermajority (>133 needed for two-thirds); note: the preliminary election-night count was 138, revised to 141 after diaspora votes were tallied (Bloomberg, 2026-04-18)
 - **Fidesz** (Viktor Orbán): **55 seats**
 - **Mi Hazánk Mozgalom** (far-right): **6 seats**
 - Turnout: **>78%** — highest in post-communist Hungarian history (previous record: 73.5% in 2002; 2022 was 69%)
@@ -47,3 +47,9 @@
 
 - [[european-stagflation-risk]] — prior coverage of the Hungary elections context and EU fund implications
 - [[conflict-and-ceasefire-status]]
+
+## Sources
+
+- Wikipedia: https://en.wikipedia.org/wiki/2026_Hungarian_parliamentary_election
+- Bloomberg (2026-04-18): "Hungary's Tisza Party Widens Election Majority in Fresh Tally" — https://www.bloomberg.com/news/articles/2026-04-18/hungary-s-tisza-party-widens-election-majority-in-fresh-tally (confirms 141 as final certified seat count after diaspora votes)
+- Al Jazeera (2026-04-12): https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz

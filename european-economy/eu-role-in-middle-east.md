@@ -37,3 +37,4 @@
 - [[predatory-world-order]]
 - [[hungary-post-election-priorities]] — Hungary's pivot toward EU alignment shifts internal EU dynamics
 - [[bulgaria-elections-2026]] — potential new pro-Russia dissident offsetting Hungary's shift
+- [[energy-outlook-april-2026]] — macro energy supply context for the €22B extra cost to EU fossil fuel imports since conflict start
