@@ -1,55 +1,30 @@
-# Political Economy Research — Knowledge Base
+# Political Economy
 
-A real-time political economy research wiki compiled from raw sources (articles, transcripts, reports) into structured Markdown notes using an LLM-assisted workflow. The vault is maintained in [Obsidian](https://obsidian.md), synced via Google Drive, and published here for reference.
+A curated, LLM-compiled wiki on the political and economic forces shaping the world in 2026.
 
----
+This repository is a public mirror of one bucket from a personal Obsidian RAG vault (Atlas). Articles are distilled from primary sources — news reporting, essays, papers, podcasts, original analysis — into concise, cross-linked notes with inline source citations.
 
-## How It Works
+## What's in here
 
-```
-sources/      <- source material: clipped articles, transcripts, reports
-  |
-corpus/       <- LLM-compiled knowledge base (this folder)
-```
+- **Geopolitics** — Middle East conflict, Hormuz Strait crisis, the Trump doctrine, Pakistan's security state, China's domestic economy, Europe's stagflation and political shifts, Bhutan's refugee crisis.
+- **Energy and markets** — global energy prices and supply disruption, US equities and macro data, Asia's energy-and-food crisis, global finance and crypto (including underground banking systems).
+- **AI as a political and economic force** — the AI industry as a market and policy domain (distinct from the practice of building with AI, which lives in a separate repo). AI geopolitics, export controls, civilisational risk.
+- **Society, religion, history** — US religion and politics (MAGA as religious movement, USCIRF, European Christian nationalism), colonial history and memory (Africa's anti-fascist war, decolonising memory), digital privacy and cybersecurity as regulatory and political issues.
 
-Source files are compiled into corpus articles with key takeaways, cross-links between related concepts, and topic-level index files. Each article includes a **Key Takeaways** section and uses `[[wiki links]]` for internal cross-references (rendered as standard links on GitHub).
+## Browsing
 
----
+The folders at the root of this repo are the topic clusters. Each topic folder contains:
 
-## Topics
+- `_index.md` — a one-line description of every article in that topic.
+- The article files themselves (`.md`).
+- Any embedded images or documents referenced inline by those articles.
 
-| Topic | Description |
-|-------|-------------|
-| [Middle East Conflict 2026](middle-east-conflict-2026/_index.md) | Ongoing war; Trump ultimatum/ceasefire drama; Islamabad talks; Iran nuclear standoff; Israel-Lebanon front |
-| [Hormuz Strait Crisis](hormuz-strait-crisis/_index.md) | Iran's blockade of the strait, toll system, shipping collapse |
-| [Energy Markets 2026](energy-markets-2026/_index.md) | Oil prices, LNG crisis, global supply disruption; $95 futures vs $130 physical |
-| [Asian Economic Crisis](asian-economic-crisis/_index.md) | Energy rationing, food/fertiliser crisis, country-by-country impacts across Asia |
-| [US Markets and Economy](us-markets-and-economy/_index.md) | Equities, macro data, inflation, Fed expectations; Q1 earnings; tech rally; natality crisis |
-| [AI Industry](ai-industry/_index.md) | Anthropic Mitos, Economic Index, Meta/OpenAI investments, DeepSeek; Silicon Valley split over military AI |
-| [AI Geopolitics and Risks](ai-geopolitics-and-risks/_index.md) | Transformative potential, civilisational risks, export controls, AI-enabled authoritarianism; nuclear wargaming study |
-| [European Economy](european-economy/_index.md) | Stagflation risk, Italy; Magyar cabinet + €90B Ukraine loan; Bulgaria Radev elected; EU military Hormuz mission; demographics 2100; Sánchez progressive summit; Nazi database |
-| [Global Finance and Crypto](global-finance-and-crypto/_index.md) | Underground banking (Hawala, Fei Qian), cryptocurrency critique, cyber-libertarianism; Polymarket hyperreality and insider trading |
-| [Bhutan Refugee Crisis](bhutan-refugee-crisis/_index.md) | Ethnic cleansing of the Lhotshampa, statelessness, US deportation loop, state Bitcoin mining |
-| [China Domestic Economy](china-domestic-economy/_index.md) | Rural pensions crisis, urban-rural inequality, "Common Prosperity" rhetoric vs. reality, medical tourism as global hospital |
-| [Digital Privacy and Cybersecurity](digital-privacy-and-cybersecurity/_index.md) | Vastaamo data breach, uberisation of healthcare, EU AI Act enforcement, data sovereignty gap, Trump offensive cyber strategy |
-| [Trump Doctrine and Geopolitics](trump-doctrine-and-geopolitics/_index.md) | Predatory world order, Venezuela blitz, Machiavelli vs Sun Tzu, Xi Jinping's strategic patience; Trump-China trade war and rare earth retaliation; NATO 5% demand and European strategic autonomy |
-| [US Religion and Politics](us-religion-and-politics/_index.md) | MAGA as new religious movement, Commission on Religious Freedom, Charlie Kirk funeral (grace vs sword), Castellio vs Calvin; USCIRF 2026 and Trump policy tensions; Meloni/Salvini European Christian nationalism |
-| [Pakistan Security State](pakistan-security-state/_index.md) | Kamran's framework; military-rule history (Ayub → Zia → Musharraf → Imran Khan); Munir-Trump axis and Pakistan's 2026 mediator role |
-| [Colonial History and Memory](colonial-history-and-memory/_index.md) | Africa's central role in the global anti-fascist war; Thiaroye massacre; Ethiopian Arbegnoch resistance and women's shadow networks; Congolese uranium; survival of colonial logic past 1945; decolonising historical memory |
+`_master-index.md` at the root lists every topic with a short description. Start there if you want a map; otherwise just browse the folder tree.
 
----
+## Method
 
-## Structure
+Sources go through a structured `consolidate` pass: each article cites its source files inline, contradictions between sources are surfaced rather than smoothed over, and a separate `refine` pass audits the wiki for orphans, broken links, and schema violations. The full method lives in the parent vault and is not published here.
 
-Each topic folder contains:
-- `_index.md` — lists all articles in that topic with one-line descriptions
-- Individual article files (e.g., `oil-price-dynamics.md`) — concise bullet-point notes with a **Key Takeaways** section and cross-links to related articles
+## Updates
 
----
-
-## Tech Stack
-
-- **Obsidian** — vault editor and graph view for navigating cross-links
-- **Plain Markdown** — all content is `.md`, no proprietary formats
-- **Google Drive** — sync across devices
-- **Claude (Anthropic)** — LLM used to compile raw sources into structured wiki articles
+This repo syncs from the parent vault on a schedule — content is added or revised whenever the upstream notes change. The history of changes is visible in the commit log.
