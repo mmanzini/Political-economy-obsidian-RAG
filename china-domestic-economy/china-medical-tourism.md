@@ -68,3 +68,7 @@ Beyond revenue, medical tourism feeds China's strategic ambition in AI-driven me
 - [[china-rural-pensions-crisis]]
 - [[vastaamo-data-breach]]
 - [[ai-transformative-potential]]
+
+## Tags
+
+#political-economy #china-domestic-economy #medical-tourism #biometric-data #healthcare

@@ -20,3 +20,7 @@ Q1 2026 was the worst quarter in private credit history, with a wave of redempti
 - [[brent-oil-price-dynamics]]
 - [[us-macro-data-april-2026|US Macro Data April 2026]]
 - [[markets-rally-april-2026|Markets Rally April 2026]]
+
+## Tags
+
+#political-economy #us-markets #private-credit #liquidity #economy #2026

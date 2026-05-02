@@ -73,3 +73,7 @@
 
 - [[china-strategic-positioning]] — China's capital controls and broader financial and strategic manoeuvring
 - [[european-stagflation-risk]] — global financial regulation context
+
+## Tags
+
+#political-economy #global-finance #crypto #hawala #underground-banking #deregulation

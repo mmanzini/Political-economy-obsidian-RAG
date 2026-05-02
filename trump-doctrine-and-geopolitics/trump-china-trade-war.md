@@ -59,3 +59,7 @@
 - [[trump-nato-european-realignment]] — parallel application of coercive pressure to NATO allies; same predatory logic, different target
 - [[cybersecurity-policy-2026]] — AI chip export controls as parallel coercive instrument; agentic hardware as the new contested sovereignty terrain
 - [[china-strategic-positioning]] — China's Sun Tzu patience in the energy crisis: the energy-crisis dimension of the same long game
+
+## Tags
+
+#political-economy #trump-doctrine #china #trade-war #tariffs #rare-earths

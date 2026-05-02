@@ -53,3 +53,7 @@
 - Wikipedia: https://en.wikipedia.org/wiki/2026_Hungarian_parliamentary_election
 - Bloomberg (2026-04-18): "Hungary's Tisza Party Widens Election Majority in Fresh Tally" — https://www.bloomberg.com/news/articles/2026-04-18/hungary-s-tisza-party-widens-election-majority-in-fresh-tally (confirms 141 as final certified seat count after diaspora votes)
 - Al Jazeera (2026-04-12): https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz
+
+## Tags
+
+#political-economy #european-politics #hungary #elections #orban #2026

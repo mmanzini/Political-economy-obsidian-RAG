@@ -33,3 +33,7 @@
 ## Related
 - [[hungary-post-election-priorities]] — simultaneous pro-EU shift in Hungary
 - [[european-stagflation-risk]]
+
+## Tags
+
+#political-economy #european-politics #bulgaria #elections #pro-russia #2026

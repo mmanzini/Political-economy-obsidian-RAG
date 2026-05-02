@@ -60,3 +60,7 @@ Framework drawn from Tahir Kamran, *Secret Past, Uncertain Future* (Bacon House 
 
 - [[pakistan-military-rule-history]]
 - [[pakistan-2026-mediator-role]]
+
+## Tags
+
+#political-economy #pakistan-security-state #military #partition #institutional-history

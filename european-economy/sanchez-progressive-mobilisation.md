@@ -39,3 +39,7 @@
 - [[eu-role-in-middle-east]] — EU searching for political relevance in a US-dominated crisis
 - [[european-stagflation-risk]] — domestic economic pressure Sánchez is navigating
 - [[eu-demographics-2100|EU Demographics 2100]]
+
+## Tags
+
+#political-economy #european-politics #spain #sanchez #progressive #geopolitics

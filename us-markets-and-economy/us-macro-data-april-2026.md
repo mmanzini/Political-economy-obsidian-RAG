@@ -54,3 +54,7 @@
 - [[us-equities-april-2026]]
 - [[european-stagflation-risk]]
 - [[energy-supply-disruption]]
+
+## Tags
+
+#political-economy #us-markets #economy #inflation #cpi #fed #2026

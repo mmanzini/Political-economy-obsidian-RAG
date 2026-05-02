@@ -61,3 +61,7 @@
 - [[vastaamo-data-breach]] — case study in platform-economy logic applied to sensitive health data without adequate security
 - [[predatory-world-order]] — offensive cyber doctrine connects to the broader Machiavellian predatory order
 - [[trump-china-trade-war]] — AI chip export controls as coercive instrument; agentic hardware as sovereignty lever
+
+## Tags
+
+#political-economy #digital-privacy #cybersecurity #eu-ai-act #data-sovereignty #2026

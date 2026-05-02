@@ -51,3 +51,7 @@
 - [[maga-new-religious-movement]] — domestic dimension; the same structural hollowing of religious content for political use; Commission on Religious Freedom as institutional marker
 - [[predatory-world-order]] — the foreign-policy doctrine that treats international norms as optional instruments; USCIRF is caught between the two
 - [[european-christian-nationalism-meloni-salvini]] — European parallel: religious identity deployed as political instrument, not theological conviction
+
+## Tags
+
+#political-economy #us-religion-and-politics #uscirf #religious-freedom #trump #foreign-policy

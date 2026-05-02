@@ -60,3 +60,7 @@
 - [[ai-risks-and-safety]] — broader risk framework
 - [[deepseek-and-export-controls]]
 - [[ai-developments-april-2026]]
+
+## Tags
+
+#political-economy #ai-industry #military-ai #anthropic #openai #pentagon

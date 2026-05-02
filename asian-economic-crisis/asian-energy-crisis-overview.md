@@ -45,3 +45,7 @@ The Hormuz blockade has hit Asia disproportionately: 80% of oil and 90% of LNG t
 - [[country-impacts]]
 - [[energy-supply-disruption]]
 - [[lng-crisis-and-gas-markets]]
+
+## Tags
+
+#political-economy #asian-economic-crisis #energy #hormuz #2026

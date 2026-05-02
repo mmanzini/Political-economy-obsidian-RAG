@@ -92,3 +92,7 @@
 
 - [[predatory-world-order]] — the logic of annihilate-or-caress and the discarding of rules-based order has colonial antecedents; the present doctrine recycles a long pattern
 - [[bhutan-ethnic-cleansing-and-statelessness|Bhutan: Ethnic Cleansing and Statelessness]] — parallel case of state violence against a population followed by erasure and international indifference
+
+## Tags
+
+#political-economy #colonial-history #africa #wwii #anti-fascism #decolonisation

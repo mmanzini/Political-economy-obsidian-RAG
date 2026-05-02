@@ -51,3 +51,7 @@
 - [[predatory-world-order]] — the foundational Machiavellian doctrine; Venezuela blitz; the logic of annihilate-or-caress applied to NATO context
 - [[trump-china-trade-war]] — parallel coercive pressure on a peer competitor; comparison reveals doctrine's different effectiveness against strong vs. weak targets
 - [[eu-role-in-middle-east]] — EU operational autonomy (Hormuz mission); the defence reorientation expressed in real-world operations
+
+## Tags
+
+#political-economy #trump-doctrine #nato #europe #defence-spending #strategic-autonomy

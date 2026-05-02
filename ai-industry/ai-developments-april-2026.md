@@ -50,3 +50,7 @@
 - [[ai-risks-and-safety]] — Amodei's mapping of AI civilisational risks
 - [[silicon-valley-military-ai-split]] — Anthropic's Pentagon standoff and OpenAI's subsequent deal; the military AI schism deepens
 - [[election-safeguards-2026]] — Anthropic's election safeguards update: political-bias evals, influence-operation testing, and election banners for 2026 US midterms
+
+## Tags
+
+#political-economy #ai-industry #anthropic #openai #meta #2026

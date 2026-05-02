@@ -93,3 +93,7 @@ Chronological survey of Pakistan's military regimes and "hybrid" arrangements, d
 
 - [[pakistan-as-security-state]]
 - [[pakistan-2026-mediator-role]]
+
+## Tags
+
+#political-economy #pakistan-security-state #military-rule #coups #imran-khan #history

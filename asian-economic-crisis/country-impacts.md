@@ -88,3 +88,7 @@ Breakdown of how individual Asian countries are coping with the Hormuz energy cr
 - [[urea-and-food-crisis]]
 - [[china-strategic-positioning]]
 - [[energy-supply-disruption]]
+
+## Tags
+
+#political-economy #asian-economic-crisis #energy #southeast-asia #2026

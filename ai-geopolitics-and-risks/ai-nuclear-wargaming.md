@@ -41,3 +41,7 @@
 - [[silicon-valley-military-ai-split]] — Anthropic refuses Pentagon contract; OpenAI signs it anyway
 - [[ai-risks-and-safety]] — broader civilisational risk framework
 - [[ai-developments-april-2026]]
+
+## Tags
+
+#political-economy #ai-geopolitics #nuclear #military-ai #ai-risks

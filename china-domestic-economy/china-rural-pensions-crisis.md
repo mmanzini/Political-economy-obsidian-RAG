@@ -45,3 +45,7 @@
 
 - [[china-strategic-positioning]]
 - [[asian-energy-crisis-overview]]
+
+## Tags
+
+#political-economy #china-domestic-economy #inequality #pensions #rural

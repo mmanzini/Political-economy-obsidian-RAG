@@ -31,3 +31,7 @@
 - [[european-stagflation-risk]] — context: Germany's political and economic climate in 2026
 - [[sanchez-progressive-mobilisation]] — broader European memory and political identity debates
 - [[colonial-history-and-memory/africa-wwii-antifascist-resistance|Africa WWII Antifascist Resistance]]
+
+## Tags
+
+#political-economy #european-politics #germany #austria #historical-memory #nazism

@@ -61,3 +61,7 @@
 - [[predatory-world-order]] — foreign-policy dimension of the same doctrine: the "moderate abroad" pattern maps onto Trump's fox-and-lion logic
 - [[hungary-elections-2026|Hungary Elections 2026]] — Orbán's 2026 electoral defeat; end of the template government
 - [[hungary-post-election-priorities|Hungary Post-Election Priorities]] — what the successor government inherits from Christian nationalist governance
+
+## Tags
+
+#political-economy #us-religion-and-politics #italy #meloni #salvini #christian-nationalism

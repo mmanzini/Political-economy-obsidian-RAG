@@ -61,3 +61,7 @@
 
 - Bloomberg (2026-04-18): "Hungary's Tisza Party Widens Election Majority in Fresh Tally" — https://www.bloomberg.com/news/articles/2026-04-18/hungary-s-tisza-party-widens-election-majority-in-fresh-tally
 - Wikipedia: https://en.wikipedia.org/wiki/2026_Hungarian_parliamentary_election
+
+## Tags
+
+#political-economy #european-politics #hungary #magyar #eu-funds #ukraine #2026

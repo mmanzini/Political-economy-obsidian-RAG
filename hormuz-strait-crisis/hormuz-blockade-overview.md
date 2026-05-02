@@ -61,3 +61,7 @@ The Strait of Hormuz — 167 km of water dubbed the "jugular vein of the world" 
 - [[shipping-and-insurance-collapse]]
 - [[energy-supply-disruption]]
 - [[asian-energy-crisis-overview]]
+
+## Tags
+
+#political-economy #hormuz-strait #iran #blockade #shipping #2026

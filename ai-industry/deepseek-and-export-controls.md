@@ -53,3 +53,7 @@
 - [[ai-transformative-potential]] — Amodei's vision of what "countries of geniuses in a datacenter" could achieve
 - [[ai-risks-and-safety]] — the risks of powerful AI, including misuse by authoritarian states
 - [[ai-developments-april-2026]] — current AI industry developments
+
+## Tags
+
+#political-economy #ai-industry #deepseek #export-controls #china #chips

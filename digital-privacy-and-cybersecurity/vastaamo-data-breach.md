@@ -51,3 +51,7 @@
 
 - [[ai-risks-and-safety]]
 - [[ai-developments-april-2026]]
+
+## Tags
+
+#political-economy #digital-privacy #data-breach #healthcare #uberisation #finland

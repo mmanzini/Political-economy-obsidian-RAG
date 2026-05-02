@@ -88,3 +88,7 @@
 - [[deepseek-and-export-controls]] — Why chip export controls are critical to ensuring democracies lead in AI
 - [[ai-developments-april-2026]] — Current state of AI industry
 - [[ai-nuclear-wargaming]] — Empirical test of AI agency in high-stakes scenarios: models choose nuclear escalation 95% of the time
+
+## Tags
+
+#political-economy #ai-geopolitics #ai-potential #biology #economic-development

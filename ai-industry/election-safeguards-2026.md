@@ -88,3 +88,7 @@ Evaluations on web search triggering for election queries (over 200 distinct pro
 - [[silicon-valley-military-ai-split|Silicon Valley–Military AI Split]] — Anthropic's refusal of the Pentagon contract and broader ethical positioning in the AI industry
 - [[ai-developments-april-2026|AI Developments April 2026]] — broader Anthropic model developments context, including Mythos/Opus launches
 - [[deepseek-and-export-controls|DeepSeek and Export Controls]] — geopolitical backdrop shaping AI policy decisions
+
+## Tags
+
+#political-economy #ai-industry #anthropic #elections #influence-operations #2026

@@ -55,3 +55,7 @@
 - [[energy-outlook-april-2026]]
 - [[silicon-valley-military-ai-split]]
 - [[private-credit-crisis]]
+
+## Tags
+
+#political-economy #us-markets #equities #rally #imf #2026

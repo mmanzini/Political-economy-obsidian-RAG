@@ -37,3 +37,7 @@ The energy crisis is metamorphosing into a food crisis through a critical depend
 - [[china-strategic-positioning]]
 - [[asian-energy-crisis-overview]]
 - [[country-impacts]]
+
+## Tags
+
+#political-economy #asian-economic-crisis #food-security #urea #fertiliser #china

@@ -115,3 +115,7 @@
 - [[ai-nuclear-wargaming]] — King's College study confirming AI models choose nuclear escalation in 95% of crisis simulations
 - [[hungary-elections-2026]] — Example of democratic resilience against authoritarianism
 - [[us-macro-data-april-2026]] — Current US economic context for labour displacement predictions
+
+## Tags
+
+#political-economy #ai-geopolitics #ai-risks #safety #bioweapons #authoritarianism

@@ -32,3 +32,7 @@
 - [[hormuz-blockade-overview]]
 - [[asian-energy-crisis-overview]]
 - [[country-impacts]]
+
+## Tags
+
+#political-economy #energy-markets #lng #gas #qatar #hormuz

@@ -32,3 +32,7 @@
 
 - [[bhutan-ethnic-cleansing-and-statelessness]]
 - [[underground-banking-and-crypto-critique]]
+
+## Tags
+
+#political-economy #bhutan-refugee-crisis #bitcoin #cryptocurrency #hydropower

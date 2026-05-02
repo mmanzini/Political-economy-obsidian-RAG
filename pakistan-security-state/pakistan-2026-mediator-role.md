@@ -64,3 +64,7 @@ How Islamabad has positioned itself at the centre of the US-Iran-Gulf crisis as 
 - [[trump-ultimatum-and-ceasefire-drama]]
 - [[predatory-world-order]]
 - [[hormuz-blockade-overview]]
+
+## Tags
+
+#political-economy #pakistan-security-state #diplomacy #trump #munir #2026

@@ -44,3 +44,7 @@
 - [[hormuz-blockade-overview]]
 - [[asian-energy-crisis-overview]]
 - [[energy-outlook-april-2026]] — continuation: April 16 update with $95 futures vs $130 physical, IEA demand destruction, Russia windfall
+
+## Tags
+
+#political-economy #energy-markets #oil #brent #hormuz #2026

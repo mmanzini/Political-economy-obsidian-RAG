@@ -40,3 +40,7 @@
 
 - [[bhutan-state-bitcoin-mining]]
 - [[underground-banking-and-crypto-critique]]
+
+## Tags
+
+#political-economy #bhutan-refugee-crisis #ethnic-cleansing #statelessness #lhotshampa

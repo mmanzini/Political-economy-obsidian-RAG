@@ -32,3 +32,7 @@ The Hormuz blockade has split the global shipping fleet in two and made conventi
 - [[hormuz-blockade-overview]]
 - [[energy-supply-disruption]]
 - [[brent-oil-price-dynamics]]
+
+## Tags
+
+#political-economy #hormuz-strait #shipping #insurance #supply-chain #2026

@@ -108,3 +108,7 @@
 
 - [[predatory-world-order]] — the foreign-policy dimension of the same Trump doctrine: Machiavellian fox-and-lion strategy abroad, grace-vs-sword theology at home; both substitute legitimacy for virtue
 - [[prediction-markets-and-hyperreality]] — parallel substitution of reality with its simulacrum; here it is Christianity hollowed out and replaced, there it is fact hollowed out and replaced by the contract
+
+## Tags
+
+#political-economy #us-religion-and-politics #maga #trump #religious-nationalism #evangelicals

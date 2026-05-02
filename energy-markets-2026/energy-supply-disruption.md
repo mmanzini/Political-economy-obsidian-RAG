@@ -40,3 +40,7 @@ The Hormuz blockade has caused the largest disruption of energy supply in modern
 - [[brent-oil-price-dynamics]]
 - [[asian-energy-crisis-overview]]
 - [[country-impacts]]
+
+## Tags
+
+#political-economy #energy-markets #oil #supply-disruption #hormuz #2026

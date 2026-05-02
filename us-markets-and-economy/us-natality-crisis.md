@@ -37,3 +37,7 @@
 ## Related
 - [[us-macro-data-april-2026]]
 - [[eu-demographics-2100|EU Demographics 2100]]
+
+## Tags
+
+#political-economy #us-markets #economy #natality #demographics #fertility

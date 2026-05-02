@@ -84,3 +84,7 @@
 - [[markets-rally-april-2026]] — continuation: April 16 synthesis with Q1 earnings actuals, IMF forecasts, and Anthropic valuation update
 - [[ai-developments-april-2026]]
 - [[brent-oil-price-dynamics]]
+
+## Tags
+
+#political-economy #us-markets #equities #nasdaq #sp500 #2026

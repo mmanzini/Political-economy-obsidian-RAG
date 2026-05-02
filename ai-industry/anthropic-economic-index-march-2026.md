@@ -91,3 +91,7 @@ Source: Anthropic Economic Index Report, published 2026-03-24. Authors: Massenko
 - Global AI adoption inequality is **widening** between countries even as it narrows within the US
 - The learning-by-doing effect suggests early AI investment by workers may compound over time
 - See also: [[ai-developments-april-2026]], [[deepseek-and-export-controls]], [[ai-transformative-potential]]
+
+## Tags
+
+#political-economy #ai-industry #anthropic #labour-market #economic-index #2026

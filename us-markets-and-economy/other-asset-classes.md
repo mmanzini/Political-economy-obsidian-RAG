@@ -23,3 +23,7 @@ Snapshot of safe-haven and alternative assets as of 2026-04-11.
 - [[us-equities-april-2026]]
 - [[us-macro-data-april-2026]]
 - [[hormuz-blockade-overview]]
+
+## Tags
+
+#political-economy #us-markets #gold #bitcoin #safe-haven #economy

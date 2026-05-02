@@ -53,3 +53,7 @@
 - [[hormuz-blockade-overview]]
 - [[lng-crisis-and-gas-markets]]
 - [[markets-rally-april-2026]]
+
+## Tags
+
+#political-economy #energy-markets #oil #lng #russia #2026

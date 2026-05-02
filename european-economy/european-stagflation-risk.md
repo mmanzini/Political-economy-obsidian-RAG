@@ -70,3 +70,7 @@
 - [[energy-supply-disruption]]
 - [[brent-oil-price-dynamics]]
 - [[conflict-and-ceasefire-status]]
+
+## Tags
+
+#political-economy #european-politics #stagflation #italy #energy #2026

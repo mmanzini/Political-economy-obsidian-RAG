@@ -39,3 +39,7 @@ Eurostat demographic projections published 2026-04-16 (via *Ventisette* / Il Pos
 - [[hungary-post-election-priorities]] — natalist policy legacy under Orbán; Magyar government faces demographic headwinds
 - [[eu-role-in-middle-east]] — fiscal exposure compounds demographic pressure
 - [[us-natality-crisis|US Natality Crisis]]
+
+## Tags
+
+#political-economy #european-politics #demographics #ageing #population #2100

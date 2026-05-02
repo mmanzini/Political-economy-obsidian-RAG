@@ -57,3 +57,7 @@
 - [[china-strategic-positioning]] — China's Sun Tzu patience in the energy crisis: the economic dimension of strategic non-action
 - [[maga-new-religious-movement]] — the domestic-religious side of the same doctrine: grace-vs-sword theology, Kirk funeral, Commission on Religious Freedom
 - [[pakistan-2026-mediator-role]] — Pakistan as Trump's chosen mediator in the Iran-US talks; operationalises the predatory doctrine via proxy diplomacy
+
+## Tags
+
+#political-economy #trump-doctrine #geopolitics #machiavelli #venezuela #china
