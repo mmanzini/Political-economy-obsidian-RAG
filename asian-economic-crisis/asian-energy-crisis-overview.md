@@ -45,6 +45,7 @@ The Hormuz blockade has hit Asia disproportionately: 80% of oil and 90% of LNG t
 - [[country-impacts]]
 - [[energy-supply-disruption]]
 - [[lng-crisis-and-gas-markets]]
+- [[russia-se-asia-energy-dominance]] — Russia filling the Hormuz vacuum: shadow fleet, ESPO/Kozmino route, and nuclear lock-ins across Philippines, Indonesia, Vietnam, Myanmar
 
 ## Tags
 

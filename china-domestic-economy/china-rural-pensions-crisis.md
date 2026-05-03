@@ -45,6 +45,7 @@
 
 - [[china-strategic-positioning]]
 - [[asian-energy-crisis-overview]]
+- [[china-technocracy-breakneck]] — China's technocratic model: private capital redirected to AI/semiconductors; counterpoint to the pension story (state invests in tech supremacy while underfunding rural welfare)
 
 ## Tags
 
